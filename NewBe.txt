@@ -1,3 +1,5 @@
 Belajar Memakai GitHub
 -Konsisten belajar
 -Membuat GUI yang interaktif
+-Membuat website belanja
+-Berkolaborasi dengan orang lain
