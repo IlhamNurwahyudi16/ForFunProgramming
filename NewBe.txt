@@ -1,0 +1,3 @@
+Belajar Memakai GitHub
+-Konsisten belajar
+-Membuat GUI yang interaktif
