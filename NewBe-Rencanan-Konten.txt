@@ -3,7 +3,10 @@ RENCANAN KONTEN
 - Javascript
   * ES6
   * Framework Javascript
+   ^ View
 - Struktur Data Dasar
 - PHP Framework
+  ^ Laravel
 - Interview
 - Vlog
+- Python
